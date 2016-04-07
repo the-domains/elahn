@@ -1,0 +1,28 @@
+name: Elahn
+favicon: null
+layout_spectrum: 0.1483682778198272
+typography_spectrum: 0.019281306536868215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5122855068184435
+  lightness: 0.47366313077509403
+  saturation: 0.01565870945341885
+  rhythmicContrast: 0.39930470916442573
+purpose: []
